@@ -1,0 +1,29 @@
+# Composer
+/vendor/
+composer.phar
+
+# Environment
+.env
+
+# Configuration
+nginx/
+postgres/
+
+# IDE
+.idea/
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+.php-cs-fixer.php
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+compose.yaml
+.dockerignore
+
+# Documentation
+README.md
